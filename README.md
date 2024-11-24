@@ -1,4 +1,4 @@
-Git Repo to build GCC 4.6.4 under MSys2 MinGW
+Git Repo to build GCC 4.6.4 under MSys2; <br>
 Based at least partly on Tormod Volden work at
 https://launchpad.net/~tormodvolden/+archive/ubuntu/m6809
 

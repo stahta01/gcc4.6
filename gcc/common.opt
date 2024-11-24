@@ -1789,6 +1789,10 @@ fstack-protector-all
 Common Report RejectNegative Var(flag_stack_protect, 2)
 Use a stack protection method for every function
 
+fstack-protector-strong
+Common Ignore
+Does nothing.  Preserved for upward compatibility.
+
 fstack-usage
 Common RejectNegative Var(flag_stack_usage)
 Output stack usage information on a per-function basis

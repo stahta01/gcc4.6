@@ -833,7 +833,6 @@ want_to_gcse_p (rtx x, int *max_distance_ptr)
 	      max_distance = (GCSE_COST_DISTANCE_RATIO * cost) / 10;
 	      if (max_distance == 0)
 		return 0;
-
 	      gcc_assert (max_distance > 0);
 	    }
 	  else

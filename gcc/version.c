@@ -32,5 +32,5 @@ const char bug_report_url[] = "<URL:http://lost.l-w.ca/coco/lwtools/>";
    BASEVER, DATESTAMP, DEVPHASE, and REVISION are defined by the
    Makefile.  */
 
-const char version_string[] = BASEVER DATESTAMP DEVPHASE REVISION " (gcc6809lw pl9)";
+const char version_string[] = BASEVER DATESTAMP DEVPHASE REVISION " (gcc6809lw pl9a)";
 const char pkgversion_string[] = PKGVERSION;

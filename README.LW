@@ -1,0 +1,14 @@
+This is a port of gcc6809 which is designed to work with the lwtools
+cross-assembler and linker package.  You will need several scripts from that
+package, available at http://lost.l-w.ca/coco/lwtools/, in order to use
+this.  Instructions for building are present in the lwtools package.
+
+This work is based extensively on the gcc6809 4.3.4-3 release by Brian
+Dominy (brian@oddchange.com) with some significant renovations to make it
+work with gcc 4.6.4.
+
+There is no guarantee that it will work for any particular purpose you
+choose to put it to.
+
+If you run into any problems, contact William Astle (lost@l-w.ca). DO NOT
+contact the main GCC developers!
